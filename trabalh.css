@@ -1,0 +1,72 @@
+
+  .margensDiv{ 
+    width:70%; 
+    margin:auto;
+    padding:50px;
+    background-color:#f7f2f2;    
+    color:black;       
+    Font-family:Noto Sans, sans-serif; 
+    font-size: 16px; 
+
+    margin-top:50px; 
+    margin-left: 190px;
+    }
+    
+    .textoexplicativo {
+        font-size: 15px;
+        color:#262626;
+        
+    }
+    
+   
+       
+    header{
+    background-color: rgb(60, 95, 95);
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 90px;
+    color:white;
+    font-size: 30px;
+    
+    }
+        
+    
+    
+    nav{
+        background-color: #130a01;
+       padding-top: 2px;
+       word-spacing: 80px;
+       padding-bottom: 2px;
+    }
+    
+    nav ul {
+        list-style: none;
+        overflow:hidden;
+    }
+    
+    nav a{ color:rgb(245, 235, 235);
+        text-decoration: none;
+        padding:35px;            }
+     
+    
+        nav a:hover{
+            background-color: blue;
+        
+        }
+     
+    nav li{
+        float:left;
+    
+    }
+    
+    .kkk{
+    
+    font-style: italic;
+    font-size: 27px;
+    }        
+   .espace{
+    margin-top: 10%;
+   }
+   .foto{
+    padding-right: 10%;
+   }
